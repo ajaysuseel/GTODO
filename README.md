@@ -1,7 +1,9 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
-Gamified TODO
+# Gamified TODO 🎯
+
+## Hosted link is given below
+https://gtodo-d7d62.web.app/
 
 ## Basic Details
 ### Team Name: [Team Izanagi]
@@ -26,13 +28,7 @@ A gamified version of TODO list that allows users to not only add tasks but also
 For Software:
 - Dart
 - Firebase
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -62,36 +58,11 @@ home page
 task manager
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 (https://drive.google.com/file/d/1ehf5xPWyTl6X9_tp8UWmQnLCxGL4h89u/view?usp=drive_link)
-login ,homepage,level up avatar addingb and managing tasks
+login ,homepage,level up avatar,adding and managing tasks
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Ajay Suseel: Firebase
